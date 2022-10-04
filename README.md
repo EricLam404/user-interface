@@ -1,8 +1,8 @@
 # user-interface
-###Live link
+### Live link
 
 **https://ericlam404.github.io/user-interface/**
 
-###Features
+### Features
 
 **Drop-down Menu** and **Image Slider**
